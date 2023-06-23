@@ -1,0 +1,21 @@
+{
+    "settings": {},
+    "category": [
+        {
+            "type": "prelanding",
+            "title": {
+                "en": "Página de pré-lançamento"
+            },
+            "icon": "templates/prelanding/prelanding.svg",
+            "items": [
+                {
+                    "id": 0,
+                    "path": "templates/prelanding/0",
+                    "title": "modelo em branco",
+                    "img": "https://via.placeholder.com/600x337?text=Blank+template",
+                    "assets": []
+                }
+            ]
+        }
+    ]
+}
